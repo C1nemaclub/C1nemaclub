@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<img src="https://raw.githubusercontent.com/C1nemaclub/C1nemaclub/master/assets/Santiago%20Velasquez%20Singh%20Banner.png">
 
 <h2> Hey there! I'm Santiago.</h2>
 
