@@ -42,7 +42,7 @@
 
 <p align="center">
 <a href="https://c1nemaclub.github.io/"><img alt="Website" src="https://img.shields.io/badge/Website-https://c1nemaclub.github.io/-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/santiago-velasquez-426719243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/santiagovm18/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/santiago-velasquez-426719243/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Santiago%Velasquez%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/santiagovm18/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Santiago-blue?style=flat-square&logo=instagram"></a>
 <a href="santiagov801@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-santiagov801@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
