@@ -34,6 +34,7 @@
 <a href="https://github.com/C1nemaclub">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=C1nemaclub&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C1nemaclub&theme=buefy&layout=compact" />
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=C1nemaclub&" alt="C1nemaclub" /></p>
 </a>
 
 <br/>
